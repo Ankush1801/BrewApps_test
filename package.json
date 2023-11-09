@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js",
-    "dev": "export NODE_ENV=dev && pm2 start server.js --name asap_node",
+    "dev": "export NODE_ENV=dev && pm2 start server.js --name BREW_TEST",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ankush",
